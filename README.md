@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/rafafigueiroa"></a>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafafigueiroa&theme=react&hide_border=true&show_icons=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafafigueiroa&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&exclude_repo=pongobo"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafafigueiroa&theme=react&hide_border=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafafigueiroa&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&exclude_repo=pongobo"/>
 </div>
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
